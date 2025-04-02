@@ -1,9 +1,9 @@
-//Grace Trieu, CS302-002, Program 3, May 2023
-//This file contains the "fight" function that allows
-//two characters to battle.
-//In main, the functions of Character and it's derived,
-//and the BST are tested.
-//"menu" type interface
+/*CS302-002, Program 3, May 2023
+This file contains the "fight" function that allows
+two characters to battle.
+In main, the functions of Character and it's derived,
+and the BST are tested.
+"menu" type interface */
 
 //#include "Character.h"
 #include "BST.h"
