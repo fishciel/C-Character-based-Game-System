@@ -1,13 +1,13 @@
-//Grace Trieu, CS302-002, Program 3, May 2023
-//This BST.cpp file contains the implementation of the 
-//Node and BST class.
-//The required functions like insert, remove, display,
-//and remove all are all supported by the BST.
-//A character pointer is expected as an argument for
-//most functions (insert, remove).
-//Every node "has a" Character *
-//A BST manages a collection of nodes
-//functions return true on success
+/*CS302-002, Program 3, May 2023
+This BST.cpp file contains the implementation of the 
+Node and BST class.
+The required functions like insert, remove, display,
+and remove all are all supported by the BST.
+A character pointer is expected as an argument for
+most functions (insert, remove).
+Every node "has a" Character *
+A BST manages a collection of nodes
+functions return true on success*/
 
 #include "BST.h"
 using namespace std;
