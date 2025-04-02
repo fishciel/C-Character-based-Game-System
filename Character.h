@@ -1,18 +1,18 @@
-//Grace Trieu, CS302-002, Program 3, May 2023
-//This file contains the class interface for the
-//Character, Adc, Tank, and Healer classes.
-//Character is the base class and the rest mentioned
-//are classes derived from it.
-//All characters have a name and stats like
-//atk (attack), hp (health pts), and mp (mana/magic pts).
-//The Character class is also an ABC.
-//Adc stands for attack damage carry and so characters of
-//this class do higher dmg with their attacks.
-//Adcs have moderate defending abilities.
-//Tanks have higher survivalability and so characters of
-//this class have higher hp and take less dmg when defending.
-//Healers have a special skill that allows them to be able to
-//regain hp. However, they are poor at defending.
+/*CS302-002, Program 3, May 2023
+This file contains the class interface for the
+Character, Adc, Tank, and Healer classes.
+Character is the base class and the rest mentioned
+are classes derived from it.
+All characters have a name and stats like
+atk (attack), hp (health pts), and mp (mana/magic pts).
+The Character class is also an ABC.
+Adc stands for attack damage carry and so characters of
+this class do higher dmg with their attacks.
+Adcs have moderate defending abilities.
+Tanks have higher survivalability and so characters of
+this class have higher hp and take less dmg when defending.
+Healers have a special skill that allows them to be able to
+regain hp. However, they are poor at defending.*/
 
 #include <iostream>
 #include <cstring>
