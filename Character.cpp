@@ -1,10 +1,10 @@
-//Grace Trieu, CS302-002, Program 3, May 2023
-//This Character.cpp file contains the implementation of the
-//Character, Adc, Tank, and Healer classes.
-//Character is the base class.
-//Adc, Tank, and Healer are its derived.
-//i.e. in a "is a" relationship
-//functions return true on success
+/*CS302-002, Program 3, May 2023
+This Character.cpp file contains the implementation of the
+Character, Adc, Tank, and Healer classes.
+Character is the base class.
+Adc, Tank, and Healer are its derived.
+i.e. in a "is a" relationship
+functions return true on success*/
 
 #include "Character.h"
 using namespace std;
